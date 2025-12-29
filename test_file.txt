@@ -1,3 +1,9 @@
 test
 file 
 text
+
+add
+text
+fetch
+
+commit 

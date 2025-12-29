@@ -6,4 +6,7 @@ add
 text
 fetch
 
-commit 
+commit
+
+vsc use test
+abcdefg

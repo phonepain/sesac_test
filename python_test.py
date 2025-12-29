@@ -1,9 +1,12 @@
-def solution(str1, str2):
-    answer = ''
-    for i in range(len(str1)):
-        answer+=str1[i]+str2[i]
+def solution(ineq, eq, n, m):
+    answer = 0
+    
+    if ineq==">":
+        if eq=="=":
+            return n>=m
+        
+    else:
+        return 0
+    
 
-    return answer
-
-
-
+print(solution(">", "=", 1,1))

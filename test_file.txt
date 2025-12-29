@@ -9,4 +9,4 @@ fetch
 commit
 
 vsc use test
-abcdefg
+abcdef
